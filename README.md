@@ -11,4 +11,5 @@ git version control systems
 - touch filename
 - nano filename
 - cat filename
+- python filename
 - clear
